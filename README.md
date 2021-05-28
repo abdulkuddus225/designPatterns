@@ -1,4 +1,4 @@
-# designPatterns
+# Design Patterns
 
 #Here I will demonstrate the Design Patterns examples
 
